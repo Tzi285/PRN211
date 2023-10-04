@@ -1,0 +1,17 @@
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\bin\Debug\net6.0-windows\TheFirstWindowsFormApp.exe
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\bin\Debug\net6.0-windows\TheFirstWindowsFormApp.deps.json
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\bin\Debug\net6.0-windows\TheFirstWindowsFormApp.runtimeconfig.json
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\bin\Debug\net6.0-windows\TheFirstWindowsFormApp.dll
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\bin\Debug\net6.0-windows\TheFirstWindowsFormApp.pdb
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.csproj.AssemblyReference.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.Form1.resources
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.csproj.GenerateResource.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.AssemblyInfoInputs.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.AssemblyInfo.cs
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.csproj.CoreCompileInputs.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.dll
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\refint\TheFirstWindowsFormApp.dll
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.pdb
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\TheFirstWindowsFormApp.genruntimeconfig.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\TheFirstWindowForm\obj\Debug\net6.0-windows\ref\TheFirstWindowsFormApp.dll

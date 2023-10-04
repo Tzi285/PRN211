@@ -1,0 +1,7 @@
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.csproj.AssemblyReference.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.Form1.resources
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.csproj.GenerateResource.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfoInputs.cache
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.AssemblyInfo.cs
+E:\FPT\Semester_5\PRN211\Code\TheFirstWindowForm\Demo\obj\Debug\net6.0-windows\Demo.csproj.CoreCompileInputs.cache
