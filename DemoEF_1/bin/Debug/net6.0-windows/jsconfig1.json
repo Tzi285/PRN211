@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DataUrl": "server=Minhtn\\SQLEXPRESS01;database=Northwind;user=sa;password=123;TrustServerCertificate=true"
+  }
+}
